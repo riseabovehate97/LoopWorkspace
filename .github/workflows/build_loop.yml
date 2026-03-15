@@ -218,7 +218,6 @@ jobs:
           now_line \
           meal_days \
           basal_lock \
-          live_activity \
           negative_insulin
 
           # the final customization listed above CANNOT have a continuation character
